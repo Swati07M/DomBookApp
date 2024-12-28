@@ -1,0 +1,1 @@
+export const baseUrl = "https://lake-upbeat-cheetah.glitch.me";

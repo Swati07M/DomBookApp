@@ -10,7 +10,6 @@ form.addEventListener("submit", function(){
     } 
 
 })
-import{baseurl} from"baseUrl/books.js";
-window.onload =()=>{
-    
-}
+
+
+
